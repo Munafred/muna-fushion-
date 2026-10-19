@@ -1,0 +1,7 @@
+{
+  "name": "Thread & Till - Clothing Store POS",
+  "description": "Clothing store Point of Sale (POS) system with live sales tracking, inventory management, receipt generation, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
